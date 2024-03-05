@@ -2,6 +2,9 @@
 Após informado o número zero, exiba a soma dos valores informados.
 -------------------------------
 
+
+
+
 2º Peça dois números (inicial e final), em seguida exiba todos os valores
 entre os números incial e final, exemplo:
 Inicial: 1
@@ -9,6 +12,11 @@ Final: 8
 
 Deverá exibir: 1 2 3 4 5 6 7 8
 -------------------------------
+
+
+
+
+
 
 3º Peça dois números (inicial e final), em seguida exiba todos os números pares, exemplo:
 Inicial: 2
