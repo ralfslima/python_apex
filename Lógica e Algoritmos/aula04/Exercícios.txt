@@ -1,0 +1,19 @@
+1º Exibir a data e a hora no formato: d/m/Y H:i, exemplo:
+06/03/2024 20:55
+
+2º Extrair a data e retornar o turno:
+    - 00:00 até 05:00: Boa madrugada
+    - 06:00 até 11:00: Bom dia
+    - 12:00 até 17:00: Boa tarde
+    - 18:00 até 00:00: Boa noite
+
+3º Peça para o cliente informar um nome/frase (não precisa validar caracteres especiais).
+Conte quantas consoantes e quantas vogais foram informadas
+
+4º Peça um nome, retorne intercalando entre maiúsculas e minúsculas.
+Exemplo: Ralf - RaLf ou Larissa - LaRiSsA
+
+5º Informe uma palavra ou um terxto, retorne se é um palíndromo ou não.
+
+6º Peça para o cliente informar vários nomes separados por vírgula.
+Em seguida extraia esses nomes, adicione em um vetor e exiba cada nome registrado.
